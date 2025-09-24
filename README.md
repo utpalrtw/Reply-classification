@@ -8,7 +8,7 @@ You can train a model on your dataset and evaluate it for sentiment or custom te
 ## Quickstart 🚀
 
 ### 1. Clone the repository
-```bash
+```bash```
 git clone https://github.com/utpalrtw/Reply-classification.git
 cd text-classification
 
@@ -26,4 +26,5 @@ uvicorn app:app --reload
 
 4. Access Interfaces
 FastAPI Docs: http://localhost:8000/docs
+
 
